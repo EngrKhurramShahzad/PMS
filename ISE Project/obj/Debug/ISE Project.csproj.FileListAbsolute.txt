@@ -1,0 +1,106 @@
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\bin\Debug\ISE Project.exe.config
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE Project.csprojResolveAssemblyReference.cache
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Customer.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Dashboard.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Properties.Resources.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE Project.csproj.GenerateResource.Cache
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\bin\Debug\ISE Project.exe
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\bin\Debug\ISE Project.pdb
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE Project.exe
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE Project.pdb
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Medicines.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Payment.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Vendor.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Return.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Required.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\obj\Debug\ISE_Project.Salesman.resources
+C:\Users\Khurram Shahzad\Desktop\ISE Project\ISE Project\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\bin\Debug\ISE Project.exe.config
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE Project.exe
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE Project.pdb
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\bin\Debug\ISE Project.exe
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\bin\Debug\ISE Project.pdb
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE Project.csprojResolveAssemblyReference.cache
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Medicines.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Payment.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Vendor.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Return.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Required.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Customer.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Salesman.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Dashboard.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Properties.Resources.resources
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE Project.csproj.GenerateResource.Cache
+C:\Users\Tayyab ali\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Owner.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\bin\Debug\ISE Project.exe.config
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE Project.exe
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE Project.pdb
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\bin\Debug\ISE Project.exe
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\bin\Debug\ISE Project.pdb
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE Project.csprojResolveAssemblyReference.cache
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Medicines.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Owner.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.View.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Vendor.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Payment.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Return.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Required.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Customer.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Salesman.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Dashboard.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE_Project.Properties.Resources.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project1\ISE Project\obj\Debug\ISE Project.csproj.GenerateResource.Cache
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\bin\Debug\ISE Project.exe
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\bin\Debug\MetroFramework.dll
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\bin\Debug\ISE Project.exe.config
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Medicines.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Vendor.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Required.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Owner.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.VendorInf.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Return.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Customer.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Salesman.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Dashboard.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE_Project.Properties.Resources.resources
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE Project.csproj.GenerateResource.Cache
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE Project.exe
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE Project.pdb
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\bin\Debug\ISE Project.pdb
+C:\Users\Khurram Shahzad\Documents\Visual Studio 2013\Projects\ISE Project\ISE Project\obj\Debug\ISE Project.csprojResolveAssemblyReference.cache
+E:\Project data base'\ISE Project   5\ISE Project\bin\Debug\ISE Project.exe.config
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.exe
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.pdb
+E:\Project data base'\ISE Project   5\ISE Project\bin\Debug\ISE Project.exe
+E:\Project data base'\ISE Project   5\ISE Project\bin\Debug\ISE Project.pdb
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Medicines.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Vendor.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Required.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Owner.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.VendorInf.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Return.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Customer.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Salesman.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Dashboard.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Properties.Resources.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.csproj.GenerateResource.Cache
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.New.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Select.resources
+E:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.csprojResolveAssemblyReference.cache
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.csprojAssemblyReference.cache
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.New.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Select.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Medicines.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Vendor.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Required.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Owner.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.VendorInf.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Return.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Customer.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Salesman.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Dashboard.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE_Project.Properties.Resources.resources
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.csproj.GenerateResource.cache
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.csproj.CoreCompileInputs.cache
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.exe
+H:\Project data base'\ISE Project   5\ISE Project\obj\Debug\ISE Project.pdb

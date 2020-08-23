@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53CBA686-B74F-4273-A09F-5CDD6FF3E7A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ISE_Project</RootNamespace>
+    <AssemblyName>ISE Project</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\..\Desktop\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add  New Medicine - Copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add  New Medicine - Copy.Designer.cs">
+      <DependentUpon>Add  New Medicine - Copy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Select Medicines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select Medicines.Designer.cs">
+      <DependentUpon>Select Medicines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Record.Designer.cs">
+      <DependentUpon>View Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendor Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendor Order.Designer.cs">
+      <DependentUpon>Vendor Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerOrderDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomerOrderDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PMSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PMSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Add  Required Medicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add  Required Medicine.Designer.cs">
+      <DependentUpon>Add  Required Medicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner.Designer.cs">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendor Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendor Information.Designer.cs">
+      <DependentUpon>Vendor Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBClass.cs" />
+    <Compile Include="Return Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Return Products.Designer.cs">
+      <DependentUpon>Return Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Order.Designer.cs">
+      <DependentUpon>Customer Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salesman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salesman.Designer.cs">
+      <DependentUpon>Salesman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Add  New Medicine - Copy.resx">
+      <DependentUpon>Add  New Medicine - Copy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select Medicines.resx">
+      <DependentUpon>Select Medicines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Record.resx">
+      <DependentUpon>View Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendor Order.resx">
+      <DependentUpon>Vendor Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add  Required Medicine.resx">
+      <DependentUpon>Add  Required Medicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner.resx">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendor Information.resx">
+      <DependentUpon>Vendor Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Return Products.resx">
+      <DependentUpon>Return Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Order.resx">
+      <DependentUpon>Customer Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salesman.resx">
+      <DependentUpon>Salesman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="CustomerOrderDataSet.xsc">
+      <DependentUpon>CustomerOrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CustomerOrderDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CustomerOrderDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CustomerOrderDataSet.xss">
+      <DependentUpon>CustomerOrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PMSDataSet.xsc">
+      <DependentUpon>PMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PMSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PMSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PMSDataSet.xss">
+      <DependentUpon>PMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
